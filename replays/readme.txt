@@ -2,4 +2,6 @@ The "simple64_replays.7z" contains 60 replays played on the map Simple64. The pl
 
 Please use 7-Zip (a file unzip software, which has a much higher compression rate than the normal Zip software) to unzip this replay pack.
 
-We will later provide an additional 30 more replays for training!
+An additional 30 more replays are placed at our repository HierNet-SC2 (https://github.com/liuruoze/HierNet-SC2/tree/main/data/replay) now!
+
+Please use all the 60 + 30 = 90 replays for training!
